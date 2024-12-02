@@ -17,3 +17,5 @@ HTML5, CSS3, SASS, jQuery, Slider, Dropdown Men, CSS Animations, jQuery Animatio
 * 웹 퍼포먼스 최적화를 위한 이미지 및 애니메이션 최적화
 * Cross-browser 호환성 고려한 스타일 및 스크립트 구현
 * 폼 요소와 유효성 검사 및 동적 폼 처리
+
+## 📑View
