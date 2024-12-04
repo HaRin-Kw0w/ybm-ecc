@@ -7,11 +7,11 @@
 https://harin-kw0w.github.io/ybm-ecc/
 
 ## 🛠Skills
-HTML5, CSS3, jQuery, Slider, Dropdown Men, CSS Animations, jQuery Animations, Form Validation 등 
+HTML5, CSS3, jQuery, SwiperJS, Dropdown Men, CSS Animations, jQuery Animations, Form Validation 등 
 
 ## 📣주요특징
 * HTML, CSS, JavaScript를 활용한 반응형 웹 디자인 구현
-* jQuery로 슬라이더 기능 구현 및 자동 슬라이딩
+* jQuery로 Slider 기능 구현 및 자동 슬라이딩
 * 탭 UI와 동적 콘텐츠 표시 기능 구현
 * 드롭다운 메뉴 및 서브 메뉴 구현
 * 애니메이션을 활용한 인터랙티브 사용자 경험 제공
