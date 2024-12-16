@@ -1,0 +1,57 @@
+$main-color1: #fff;
+$main-color2: #ff9800;
+$main-color3: #666;
+$main-color4: #333;
+$font-family: "Roboto", "Noto Sans KR", "sans-serif";
+
+%a_type{
+	display: inline-block;
+	padding: 2px 10px;
+	width: 46px;
+	height: 24px;
+	line-height: 22px;
+	text-align: center;
+	font-size: 13px;
+}
+%a_sel_local{
+	display: block;
+	padding-left: 15px;
+	width: 224px;
+	line-height: 35px;
+	font-size: 16px;
+	font-weight: 300;
+	letter-spacing: -0.5px;
+}
+%content {
+	padding-top: 8px;
+	line-height: 1.4;
+	font-size: 14px;
+	letter-spacing: -0.5px;
+	color: #999;
+}
+
+@mixin font-style($size) {
+	font-size: $size;
+	font-weight: 300;
+}
+@mixin main_cont_1($bg) {
+	position: relative;
+	float: left;
+	width: 184px;
+	height: 184px;
+	background-color: $bg;
+	cursor: pointer;
+}
+@mixin main_cont_2($pw, $ph){
+	float: left;
+	padding: $pw $ph;
+	width: 274px;
+	height: 184px;
+}
+@mixin title($ls){
+	line-height: 1.2;
+	font-size: 20px;
+	font-weight: 300;
+	letter-spacing: $ls;
+	color: #333;
+}
