@@ -11,11 +11,12 @@ https://harin-kw0w.github.io/ybm-ecc/
 HTML5, CSS3, jQuery, SwiperJS, Dropdown Men, CSS Animations, jQuery Animations, Form Validation 등 
 
 ## 📣주요특징
-* HTML, CSS, JavaScript를 활용한 반응형 웹 디자인 구현
+* HTML, CSS, JavaScript Library를 활용한 웹 디자인 구현
 * jQuery로 Slider 기능 구현 및 자동 슬라이딩
 * 탭 UI와 동적 콘텐츠 표시 기능 구현
 * 드롭다운 메뉴 및 서브 메뉴 구현
 * 애니메이션을 활용한 인터랙티브 사용자 경험 제공
+* SCSS를 활용한 스타일링, Nesting 및 Miain 기능 적용
 * 웹 접근성 고려한 키보드 내비게이션 및 포커스 관리
 * 웹 퍼포먼스 최적화를 위한 이미지 및 애니메이션 최적화
 * Cross-browser 호환성 고려한 스타일 및 스크립트 구현
